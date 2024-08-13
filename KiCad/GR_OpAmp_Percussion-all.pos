@@ -1,0 +1,46 @@
+### Footprint positions - created on 2024-08-13T15:28:37-0400 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val         Package                                                 PosX       PosY       Rot  Side
+G***      LOGO        pcb_way_logo                                         20.7500    40.5000  180.0000  bottom
+C1        4.7uF       CP_Radial_D5.0mm_P2.50mm                              3.0040    21.0038   90.0000  top
+C2        10uF        CP_Radial_D5.0mm_P2.50mm                              8.5500    24.1000    0.0000  top
+C3        10uF        CP_Radial_D5.0mm_P2.50mm                             16.7000    30.8000   90.0000  top
+C4        100nF       C_Disc_D4.7mm_W2.5mm_P5.00mm                         48.3700    28.0000    0.0000  top
+C5        100nF       C_Disc_D4.7mm_W2.5mm_P5.00mm                         21.6700    29.7100   90.0000  top
+C6        10uF        CP_Radial_D5.0mm_P2.50mm                             52.0500    32.8500  180.0000  top
+C7        1nF         C_Disc_D4.7mm_W2.5mm_P5.00mm                         61.9900     8.8500  180.0000  top
+C8        1nF         C_Disc_D4.7mm_W2.5mm_P5.00mm                         65.9140     8.9460    0.0000  top
+C9        1nF         C_Disc_D4.7mm_W2.5mm_P5.00mm                         80.0860     9.1040  180.0000  top
+C10       100nF       C_Disc_D4.7mm_W2.5mm_P5.00mm                         72.1640    27.3460  180.0000  top
+C11       100nF       C_Disc_D4.7mm_W2.5mm_P5.00mm                         85.1640    45.0460  180.0000  top
+C12       100uF       CP_Radial_D5.0mm_P2.50mm                             74.7462    37.0540  180.0000  top
+D1        LED         LED_D5.0mm                                           61.0640    30.7460    0.0000  top
+D2        1N4148      D_DO-35_SOD27_P7.62mm_Horizontal                     28.9640    30.6660    0.0000  top
+J1        Conn_01x02  PinHeader_1x02_P2.54mm_Vertical                      56.4240    45.0640   90.0000  top
+J2        Conn_01x02  PinHeader_1x02_P2.54mm_Vertical                      65.6740    44.9640   90.0000  top
+J3        Conn_01x02  PinHeader_1x02_P2.54mm_Vertical                      74.1140    45.0760   90.0000  top
+R1        10K         R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal    17.1040    13.5640   90.0000  top
+R2        1M          Pot                                                   3.4900     1.9300   90.0000  top
+R3        15K         R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal    21.5400    26.1900  -90.0000  top
+R4        1K          R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal    55.8140    37.1460    0.0000  top
+R5        1K          R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal    39.1860    26.6040  180.0000  top
+R6        100K        R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal    58.1860    14.8540  180.0000  top
+R7        1M          Pot                                                  44.7340     1.9640   90.0000  top
+R8        1M          Pot                                                  62.7740     1.9940   90.0000  top
+R9        1M          Pot                                                  80.3540     2.0140   90.0000  top
+R10       10K         Potentiometer_Bourns_PTV09A-1                        86.8140    14.8840   90.0000  top
+R11       1K          R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal    41.8760    21.5060  -90.0000  top
+SW1       SW_Push     SW_PUSH-12mm_Wuerth-430476085716                     37.7840     4.6360  180.0000  top
+SW2       SW_SPDT     PinHeader_1x03_P2.54mm_Vertical                      29.8040    18.5940   90.0000  top
+TP1       TestPoint   TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded             43.1140    44.4460    0.0000  top
+TP2       TestPoint   TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded             43.1140    28.8960    0.0000  top
+TP3       TestPoint   TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded             48.6140    22.0960    0.0000  top
+TP4       TestPoint   TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded             43.1140    36.2960    0.0000  top
+TP5       TestPoint   TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded             55.6140    21.9960    0.0000  top
+U1        MAX1044     DIP-8_W7.62mm                                         4.5540    28.1140   90.0000  top
+U2        LM741       DIP-8_W7.62mm                                         4.5540     9.9640   90.0000  top
+U3        LM741       DIP-8_W7.62mm                                        64.5540    14.8140   90.0000  top
+U4        LM386       DIP-8_W7.62mm                                        80.3040    33.6640   90.0000  top
+## End
